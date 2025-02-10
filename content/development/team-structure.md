@@ -36,7 +36,7 @@ The Communications Team ensures smooth collaboration between developers and advi
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
                     <!-- Avatar -->
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQG9siWJgVNveQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1681585722482?e=1743033600&v=beta&t=HkVIIEHOseay3es8PYiB6RFtVeDXgH7ztCMk1ULHlSE" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/kazimieras_bagdonas.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <!-- Text container -->
@@ -65,7 +65,7 @@ The Communications Team ensures smooth collaboration between developers and advi
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHpCENruvSwiQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726753961610?e=1743033600&v=beta&t=LIC0ZmQ5bejO3PTTkxbHV4pTCxM1aGW56nv93i043Ww" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/eimantas_siburkis.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -87,7 +87,7 @@ The Communications Team ensures smooth collaboration between developers and advi
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHvSbskC5YmZw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727462916118?e=1743033600&v=beta&t=QPclFKAqARTLQ8AAvqyk0D6ADbcihA3twxwtx54DW5Q" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/ignas_sabaliauskas.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -119,7 +119,7 @@ The Frontend Team focuses on building user-facing interfaces, ensuring accessibi
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://avatars.githubusercontent.com/u/128229836?v=4" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/mantvydas_deltuva.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -144,7 +144,7 @@ The Frontend Team focuses on building user-facing interfaces, ensuring accessibi
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEsk3mXJxMa8A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702309556141?e=1743033600&v=beta&t=pojEKbOJUBYneHTZtfSVVDE1YqRa1Tq-aqIKhdm-paA" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/justinas_teselis.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -179,7 +179,7 @@ The Backend Team handles the project's core logic, server-side functionality, an
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D4E03AQEu5O_bb5Qeag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730797649533?e=1743033600&v=beta&t=AZFnw7MbCP2BhLmyNdRTMf01iJf2K8U165prDEk2pZk" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/vladyslav_levchenko.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -204,7 +204,7 @@ The Backend Team handles the project's core logic, server-side functionality, an
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQE4wCR89j-h7A/profile-displayphoto-shrink_400_400/B4DZSYPukxG4Ag-/0/1737721047971?e=1743638400&v=beta&t=r3SVQ1jOHZ8K9I_ISN10DeLkoJrvUZmFz2duAKB6Wsw" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/kajus_cerniauskas.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -251,7 +251,7 @@ The Backend Team handles the project's core logic, server-side functionality, an
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D5603AQH_W7_SYvWQpg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1670264734686?e=1743033600&v=beta&t=ce27u0DFnYfknE1VUqUX9M0j90WN-qo8-uL1nvtjRF8" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/nojus_sajauskas.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
@@ -286,7 +286,7 @@ Individual contributors are members working independently on specific parts of t
             <div class="avatar-container">
                 <div class="avatar-wrapper">
                     <div class="avatar-border"></div>
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHKDH_9qdmV0Q/profile-displayphoto-shrink_400_400/B4DZNoYfu6HIAg-/0/1732623073254?e=1743033600&v=beta&t=jY8phJ6NDp5gIMpForDU3j8LNIoMo3NhQnnEeAgvTbw" als="Avatar" class="avatar"/>
+                    <img src="../assets/avatar/paulius_preiksa.jpg" als="Avatar" class="avatar"/>
                 </div>
             </div>
             <div class="text-container">
